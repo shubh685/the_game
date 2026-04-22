@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971494685551",
+    "project_id": "neverhave-5ebdc",
+    "storage_bucket": "neverhave-5ebdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971494685551:android:46f1e8566062ccc5a1c69a",
+        "android_client_info": {
+          "package_name": "com.example.never_have_iever_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEDCEpJncE6LcIqTIsWCrAmqixUmjm4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
